@@ -1,0 +1,29 @@
+
+body{
+    margin: 20px;
+    font-family: Verdana, serif;
+}
+
+
+
+
+.avatar {
+    width: 150px;
+}
+
+.avatar:hover {
+    color: seashell;
+    opacity: 0.3;
+}
+
+.card {
+    width: 400px;
+    margin: auto;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: aqua;
+    border-bottom: 8px solid salmon;
+    border-radius: 15px;
+}
